@@ -1,4 +1,16 @@
-# Fixed-word lifted-product code distance certificates
+# Increasing Lifted-Product Code Distance by Reusing Fixed Constituent Expressions
+
+Paper DOI: https://doi.org/10.5281/zenodo.24505843
+
+**Kenta Kasai · Institute of Science Tokyo**
+
+[Read the paper (PDF)](https://github.com/kasaikenta/lp-fixed-word-certificates/releases/download/paper-v1/compact_lp_extensions.pdf) · [Paper release: paper-v1](https://github.com/kasaikenta/lp-fixed-word-certificates/releases/tag/paper-v1) · [LaTeX sources](paper/source/) · [Project page](https://kasai.ict.eng.isct.ac.jp/lp-extensions-en.html)
+
+This paper reuses fixed constituent expressions of lifted-product codes while changing the finite evaluation group. It extends the [[975,195,24]] Mitten code to [[1650,330,30]] and [[2500,500,30]], at the same rate 1/5 and check-row weight nine. Both distances are certified exactly. The 2500-qubit example also retains the structure needed to generate a complete canonical logical basis using group actions.
+
+The paper is released here as a preprint, with explicit code data and complete distance-verification records. [Paper details and build instructions](paper/README.md).
+
+## Fixed-word lifted-product code distance certificates
 
 This repository accompanies *Increasing Lifted-Product Code Distance by Reusing Fixed Constituent Expressions*. It specifies the codes as binary check matrices, ordered group words, parameters and physical logical witnesses, together with the software and execution records needed to audit the reported distances.
 
@@ -45,3 +57,7 @@ The parent distance 24 is sourced from the QEDist catalogue, not newly proved by
 - The original and 1650-qubit matrices and earlier evidence were released in [lp-fixed-data-extensions v1.2.0](https://github.com/kasaikenta/lp-fixed-data-extensions/releases/tag/v1.2.0).
 
 See [CONSTRUCTION.md](CONSTRUCTION.md), [AUDIT.md](AUDIT.md), and [NOTICE.md](NOTICE.md). Cite the v1.0.0 release to identify this fixed data version.
+
+## Licenses
+
+The [paper PDF and LaTeX sources](paper/) are licensed under [CC BY 4.0](paper/LICENSE.md). Original software and verification documentation retain the [MIT license](LICENSE); third-party notices remain in force.

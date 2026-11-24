@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite this versioned data and verification supplement."
+message: "Please cite the paper for the research contribution and v1.0.0 for the fixed data and verification supplement."
 title: "Fixed-word lifted-product code distance certificates"
 type: software
 authors:
@@ -9,3 +9,15 @@ version: 1.0.0
 date-released: 2026-11-24
 url: "https://github.com/kasaikenta/lp-fixed-word-certificates"
 repository-code: "https://github.com/kasaikenta/lp-fixed-word-certificates"
+preferred-citation:
+  doi: "10.5281/zenodo.24505843"
+  type: article
+  title: "Increasing Lifted-Product Code Distance by Reusing Fixed Constituent Expressions"
+  authors:
+    - family-names: Kasai
+      given-names: Kenta
+      orcid: "https://orcid.org/0000-0002-5728-4011"
+      affiliation: "Institute of Science Tokyo"
+  year: 2026
+  version: paper-v1
+  url: "https://github.com/kasaikenta/lp-fixed-word-certificates/releases/tag/paper-v1"
