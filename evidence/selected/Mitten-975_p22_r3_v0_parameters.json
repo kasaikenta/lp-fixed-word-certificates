@@ -1,0 +1,9 @@
+{
+  "id": "Mitten-975_p22_r3_v0",
+  "p": 22,
+  "m": 15,
+  "rho": 3,
+  "fixed_constituents": "verification/verify_constructions.py: MITTEN",
+  "coordinate_order": "ij",
+  "expressions_unchanged": true
+}

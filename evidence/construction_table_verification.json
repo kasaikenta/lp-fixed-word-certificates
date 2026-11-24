@@ -1,0 +1,440 @@
+{
+  "command": "python3 paper/generate_construction_table.py",
+  "right_action": "R_h e_u = e_(u h); inverses are explicit in the expressions",
+  "constituent_expressions_unchanged": true,
+  "distance_search_rerun": false,
+  "codes": [
+    {
+      "id": "Mitten-975",
+      "n": 975,
+      "parameters": [
+        13,
+        15,
+        9
+      ],
+      "ordered_expressions": {
+        "a0": [
+          [
+            [
+              "x",
+              11
+            ],
+            [
+              "w",
+              7
+            ]
+          ],
+          [
+            [
+              "x",
+              11
+            ],
+            [
+              "w",
+              11
+            ]
+          ],
+          [
+            [
+              "x",
+              5
+            ],
+            [
+              "w",
+              14
+            ]
+          ]
+        ],
+        "a1": [
+          [],
+          [
+            [
+              "x",
+              9
+            ]
+          ],
+          [
+            [
+              "x",
+              4
+            ],
+            [
+              "w",
+              14
+            ]
+          ]
+        ],
+        "b0": [
+          [
+            [
+              "w",
+              -7
+            ],
+            [
+              "x",
+              -1
+            ]
+          ],
+          [
+            [
+              "w",
+              -3
+            ],
+            [
+              "x",
+              -3
+            ]
+          ],
+          [
+            [
+              "w",
+              -12
+            ],
+            [
+              "x",
+              -9
+            ]
+          ]
+        ],
+        "b1": [
+          [],
+          [
+            [
+              "w",
+              -2
+            ],
+            [
+              "x",
+              -9
+            ]
+          ],
+          [
+            [
+              "w",
+              -14
+            ],
+            [
+              "x",
+              -6
+            ]
+          ]
+        ]
+      },
+      "coordinate_order": "ij",
+      "matrix_match": true,
+      "css_orthogonal": true,
+      "ranks": [
+        390,
+        390
+      ],
+      "k": 195,
+      "row_weights": [
+        [
+          9
+        ],
+        [
+          9
+        ]
+      ],
+      "column_weights": [
+        [
+          3,
+          6
+        ],
+        [
+          3,
+          6
+        ]
+      ],
+      "source_sha256": "1f0e54d792762a13f34b4e2adbe9ada7e081d1d4edb206d8bda943a331a3e267"
+    },
+    {
+      "id": "Mitten-975_p22_r3_v0",
+      "n": 1650,
+      "parameters": [
+        22,
+        15,
+        3
+      ],
+      "ordered_expressions": {
+        "a0": [
+          [
+            [
+              "x",
+              11
+            ],
+            [
+              "w",
+              7
+            ]
+          ],
+          [
+            [
+              "x",
+              11
+            ],
+            [
+              "w",
+              11
+            ]
+          ],
+          [
+            [
+              "x",
+              5
+            ],
+            [
+              "w",
+              14
+            ]
+          ]
+        ],
+        "a1": [
+          [],
+          [
+            [
+              "x",
+              9
+            ]
+          ],
+          [
+            [
+              "x",
+              4
+            ],
+            [
+              "w",
+              14
+            ]
+          ]
+        ],
+        "b0": [
+          [
+            [
+              "w",
+              -7
+            ],
+            [
+              "x",
+              -1
+            ]
+          ],
+          [
+            [
+              "w",
+              -3
+            ],
+            [
+              "x",
+              -3
+            ]
+          ],
+          [
+            [
+              "w",
+              -12
+            ],
+            [
+              "x",
+              -9
+            ]
+          ]
+        ],
+        "b1": [
+          [],
+          [
+            [
+              "w",
+              -2
+            ],
+            [
+              "x",
+              -9
+            ]
+          ],
+          [
+            [
+              "w",
+              -14
+            ],
+            [
+              "x",
+              -6
+            ]
+          ]
+        ]
+      },
+      "coordinate_order": "ij",
+      "matrix_match": true,
+      "css_orthogonal": true,
+      "ranks": [
+        660,
+        660
+      ],
+      "k": 330,
+      "row_weights": [
+        [
+          9
+        ],
+        [
+          9
+        ]
+      ],
+      "column_weights": [
+        [
+          3,
+          6
+        ],
+        [
+          3,
+          6
+        ]
+      ],
+      "source_sha256": "a1d45bd138ec4286d94dfa59af1a1bbe200cf47c27cf583df341140a8477836b"
+    },
+    {
+      "id": "Mitten-975_p25_m20_r4",
+      "n": 2500,
+      "parameters": [
+        25,
+        20,
+        4
+      ],
+      "ordered_expressions": {
+        "a0": [
+          [
+            [
+              "x",
+              11
+            ],
+            [
+              "w",
+              7
+            ]
+          ],
+          [
+            [
+              "x",
+              11
+            ],
+            [
+              "w",
+              11
+            ]
+          ],
+          [
+            [
+              "x",
+              5
+            ],
+            [
+              "w",
+              14
+            ]
+          ]
+        ],
+        "a1": [
+          [],
+          [
+            [
+              "x",
+              9
+            ]
+          ],
+          [
+            [
+              "x",
+              4
+            ],
+            [
+              "w",
+              14
+            ]
+          ]
+        ],
+        "b0": [
+          [
+            [
+              "w",
+              -7
+            ],
+            [
+              "x",
+              -1
+            ]
+          ],
+          [
+            [
+              "w",
+              -3
+            ],
+            [
+              "x",
+              -3
+            ]
+          ],
+          [
+            [
+              "w",
+              -12
+            ],
+            [
+              "x",
+              -9
+            ]
+          ]
+        ],
+        "b1": [
+          [],
+          [
+            [
+              "w",
+              -2
+            ],
+            [
+              "x",
+              -9
+            ]
+          ],
+          [
+            [
+              "w",
+              -14
+            ],
+            [
+              "x",
+              -6
+            ]
+          ]
+        ]
+      },
+      "coordinate_order": "ij",
+      "matrix_match": true,
+      "css_orthogonal": true,
+      "ranks": [
+        1000,
+        1000
+      ],
+      "k": 500,
+      "row_weights": [
+        [
+          9
+        ],
+        [
+          9
+        ]
+      ],
+      "column_weights": [
+        [
+          3,
+          6
+        ],
+        [
+          3,
+          6
+        ]
+      ],
+      "source_sha256": "e92dbc01621f72ef7c069e9f94c0bc1cfd6e9bb7af225f46b4e24d27ec62a1f6"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "Mitten-975_p22_r3_v0",
+    "cutoff": 29,
+    "mode": "nested",
+    "attempts": 281626,
+    "asset": "Mitten-975_p22_r3_v0_w29.tar.gz",
+    "bytes": 171069287,
+    "sha256": "3aff4a6050bf582c6941c39be744ef5fff87ab526d931cc4c3a3374bc365423d",
+    "code_sha256": "a1d45bd138ec4286d94dfa59af1a1bbe200cf47c27cf583df341140a8477836b",
+    "url": "https://github.com/kasaikenta/lp-fixed-word-certificates/releases/download/v1.0.0/Mitten-975_p22_r3_v0_w29.tar.gz"
+  },
+  {
+    "id": "p25_m20_r4",
+    "cutoff": 29,
+    "mode": "nested",
+    "attempts": 272824,
+    "asset": "p25_m20_r4_w29_receipts.tar.gz",
+    "bytes": 257639719,
+    "sha256": "77ad9348f43b71e82029f3c503af3bfd5a78f47c926e5a3203f3c77a36331b07",
+    "code_sha256": "e92dbc01621f72ef7c069e9f94c0bc1cfd6e9bb7af225f46b4e24d27ec62a1f6",
+    "url": "https://github.com/kasaikenta/lp-fixed-word-certificates/releases/download/v1.0.0/p25_m20_r4_w29_receipts.tar.gz"
+  }
+]

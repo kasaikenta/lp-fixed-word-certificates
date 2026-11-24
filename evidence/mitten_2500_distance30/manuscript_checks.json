@@ -1,0 +1,27 @@
+{
+  "n": 2500,
+  "k": 500,
+  "distance": 30,
+  "code_sha256": "e92dbc01621f72ef7c069e9f94c0bc1cfd6e9bb7af225f46b4e24d27ec62a1f6",
+  "matrix_match": true,
+  "component_ranks": [
+    460,
+    500,
+    500,
+    500
+  ],
+  "canonical_pairs_verified": 500,
+  "canonical_seed_weights": {
+    "X": 256,
+    "Z": 262
+  },
+  "group_orbits_verified": true,
+  "girths": [
+    4,
+    4
+  ],
+  "lower_bound_from_completed_audit": 30,
+  "physical_Z_witness_weight": 30,
+  "physical_X_witness_weight": 122,
+  "lower_bound_search_rerun": false
+}

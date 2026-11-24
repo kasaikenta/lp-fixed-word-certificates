@@ -1,0 +1,12 @@
+{
+  "description": "Audit wrappers and source-bound partition coverage auditors distributed with this release. QEDist native source identities are checked against each campaign header, not inferred from this manifest.",
+  "sha256": {
+    "verification/archive_tools.py": "2497fbcf8e1c517a59917958a231eef9d837d2382d66c1cf65159805cef12dd1",
+    "verification/audit_distance.py": "94d15637dbff3558e69313245d202f633a7f76cb5e49e95942087092b99437a7",
+    "verification/curate_cutoff29.py": "ac90c0c5c05d37a9ae3b70a98f32a42acbb0813f0b55a156e312b565846db8f4",
+    "verification/download_receipts.py": "85a76dba5d6ffca9d8a49f0fc8ead26150b3f8640e1927b1bab499bac94bda61",
+    "verification/legacy_nested_audit.py": "fb500b527a68d8fa9fa35170f351b3fdc80f6f61abda41499e5fea515bb715d0",
+    "verification/nested_audit.py": "9e8e18c8a872fb4dbd429ccabb3917fe1543b8bb8ce0edb7ae4a496d3d83a391",
+    "verification/parallel_receipts.py": "614c77dc4a0de62c98cab384e658cc6910850d36f44fa69bfc6bf5ac681fa685"
+  }
+}

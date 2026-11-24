@@ -1,0 +1,4 @@
+id,family,kind,p,m,rho,n,k,rate,d_lower,d_upper,dX_lower,dX_upper,dZ_lower,dZ_upper,column_weights,row_weights,gX,gZ
+Mitten-975,Mitten-975,P,13,15,9,975,195,0.2,24,24,24,24,24,24,3;6,9,4,4
+Mitten-975_p22_r3_v0,Mitten-975,E1,22,15,3,1650,330,0.2,30,30,30,30,30,38,3;6,9,4,4
+Mitten-975_p25_m20_r4,Mitten-975,E1,25,20,4,2500,500,0.2,30,30,30,122,30,30,3;6,9,4,4

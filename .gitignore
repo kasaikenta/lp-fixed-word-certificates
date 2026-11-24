@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+receipts/
+verification_results/
+*.tar.gz
+.DS_Store
+
+downloads/

@@ -1,0 +1,466 @@
+[
+  {
+    "P": 195,
+    "code_sha256": "1f0e54d792762a13f34b4e2adbe9ada7e081d1d4edb206d8bda943a331a3e267",
+    "exact_distance": 24,
+    "family": "Mitten-975",
+    "geometry": {
+      "X": {
+        "column_weights": [
+          3,
+          6
+        ],
+        "cycle": [
+          107,
+          415,
+          21,
+          1349
+        ],
+        "four_cycles_excluded": false,
+        "girth": 4,
+        "row_weights": [
+          9
+        ]
+      },
+      "Z": {
+        "column_weights": [
+          3,
+          6
+        ],
+        "cycle": [
+          4,
+          412,
+          0,
+          1346
+        ],
+        "four_cycles_excluded": false,
+        "girth": 4,
+        "row_weights": [
+          9
+        ]
+      }
+    },
+    "id": "Mitten-975",
+    "k": 195,
+    "kind": "P",
+    "lower": 24,
+    "n": 975,
+    "ranks": [
+      390,
+      390
+    ],
+    "rechecked": true,
+    "row_weight_max": 9,
+    "source": "Parent lower bound and exact global distance: QEDist catalogue; upper witnesses checked here",
+    "supports": {
+      "X": [
+        4,
+        7,
+        9,
+        35,
+        43,
+        98,
+        123,
+        151,
+        167,
+        173,
+        178,
+        226,
+        235,
+        241,
+        267,
+        270,
+        281,
+        298,
+        304,
+        305,
+        363,
+        375,
+        379,
+        381
+      ],
+      "Z": [
+        2,
+        13,
+        14,
+        29,
+        61,
+        73,
+        80,
+        125,
+        152,
+        164,
+        169,
+        179,
+        391,
+        430,
+        433,
+        475,
+        477,
+        499,
+        526,
+        538,
+        546,
+        549,
+        561,
+        583
+      ]
+    },
+    "upper": {
+      "X": 24,
+      "Z": 24
+    },
+    "rate": 0.2
+  },
+  {
+    "P": 330,
+    "attempts": 281626,
+    "code_sha256": "a1d45bd138ec4286d94dfa59af1a1bbe200cf47c27cf583df341140a8477836b",
+    "evidence": "Physical matrices rebuilt; full source/receipt/nested partition coverage audited locally; logical supports verified",
+    "exact_distance": 30,
+    "family": "Mitten-975",
+    "geometry": {
+      "X": {
+        "column_weights": [
+          3,
+          6
+        ],
+        "cycle": [
+          48,
+          731,
+          22,
+          1980
+        ],
+        "four_cycles_excluded": false,
+        "girth": 4,
+        "row_weights": [
+          9
+        ]
+      },
+      "Z": {
+        "column_weights": [
+          3,
+          6
+        ],
+        "cycle": [
+          4,
+          682,
+          0,
+          2156
+        ],
+        "four_cycles_excluded": false,
+        "girth": 4,
+        "row_weights": [
+          9
+        ]
+      }
+    },
+    "id": "Mitten-975_p22_r3_v0",
+    "k": 330,
+    "kind": "E1",
+    "lower": 30,
+    "n": 1650,
+    "new_audits": [
+      {
+        "cutoff": 29,
+        "attempts": 281626,
+        "nodes": 1256782502153,
+        "path": "data/audits/Mitten-975_p22_r3_v0_w29.json"
+      }
+    ],
+    "nodes": 1256782502153,
+    "parent": "Mitten-975",
+    "passed": true,
+    "ranks": [
+      660,
+      660
+    ],
+    "rate": 0.2,
+    "rechecked": true,
+    "row_weight_max": 9,
+    "supports": {
+      "X": [
+        78,
+        81,
+        95,
+        153,
+        171,
+        179,
+        229,
+        235,
+        254,
+        282,
+        285,
+        337,
+        360,
+        384,
+        398,
+        413,
+        415,
+        432,
+        435,
+        488,
+        505,
+        530,
+        552,
+        553,
+        573,
+        590,
+        591,
+        594,
+        602,
+        643
+      ],
+      "Z": [
+        31,
+        70,
+        90,
+        111,
+        115,
+        121,
+        174,
+        186,
+        194,
+        219,
+        234,
+        251,
+        257,
+        260,
+        283,
+        308,
+        315,
+        321,
+        678,
+        681,
+        683,
+        719,
+        732,
+        736,
+        745,
+        773,
+        779,
+        791,
+        812,
+        864,
+        892,
+        914,
+        927,
+        934,
+        940,
+        943,
+        971,
+        988
+      ]
+    },
+    "upper": {
+      "X": 30,
+      "Z": 38
+    }
+  },
+  {
+    "id": "Mitten-975_p25_m20_r4",
+    "family": "Mitten-975",
+    "kind": "E1",
+    "parent": "Mitten-975",
+    "P": 500,
+    "n": 2500,
+    "k": 500,
+    "rate": 0.2,
+    "lower": 30,
+    "exact_distance": 30,
+    "upper": {
+      "X": 122,
+      "Z": 30
+    },
+    "supports": {
+      "X": [
+        1,
+        3,
+        18,
+        27,
+        33,
+        37,
+        39,
+        48,
+        70,
+        72,
+        77,
+        82,
+        97,
+        102,
+        115,
+        126,
+        131,
+        135,
+        140,
+        145,
+        150,
+        155,
+        156,
+        171,
+        174,
+        178,
+        197,
+        202,
+        204,
+        216,
+        222,
+        224,
+        239,
+        252,
+        255,
+        316,
+        318,
+        323,
+        342,
+        355,
+        358,
+        367,
+        380,
+        383,
+        387,
+        388,
+        400,
+        403,
+        406,
+        426,
+        427,
+        437,
+        447,
+        461,
+        466,
+        469,
+        486,
+        493,
+        494,
+        497,
+        508,
+        510,
+        511,
+        514,
+        524,
+        526,
+        534,
+        536,
+        537,
+        544,
+        546,
+        554,
+        557,
+        559,
+        560,
+        574,
+        585,
+        596,
+        601,
+        603,
+        609,
+        612,
+        613,
+        616,
+        628,
+        634,
+        643,
+        660,
+        668,
+        678,
+        691,
+        698,
+        705,
+        706,
+        712,
+        733,
+        734,
+        745,
+        746,
+        752,
+        755,
+        760,
+        782,
+        791,
+        794,
+        806,
+        813,
+        818,
+        820,
+        823,
+        839,
+        860,
+        865,
+        877,
+        881,
+        888,
+        893,
+        910,
+        915,
+        928,
+        973,
+        981
+      ],
+      "Z": [
+        0,
+        4,
+        8,
+        12,
+        16,
+        101,
+        103,
+        105,
+        107,
+        109,
+        111,
+        113,
+        115,
+        117,
+        119,
+        323,
+        327,
+        331,
+        335,
+        339,
+        400,
+        404,
+        408,
+        412,
+        416,
+        1021,
+        1025,
+        1029,
+        1033,
+        1037
+      ]
+    },
+    "code_sha256": "e92dbc01621f72ef7c069e9f94c0bc1cfd6e9bb7af225f46b4e24d27ec62a1f6",
+    "ranks": [
+      1000,
+      1000
+    ],
+    "row_weight_max": 9,
+    "rechecked": true,
+    "geometry": {
+      "X": {
+        "row_weights": [
+          9
+        ],
+        "column_weights": [
+          3,
+          6
+        ],
+        "girth": 4
+      },
+      "Z": {
+        "row_weights": [
+          9
+        ],
+        "column_weights": [
+          3,
+          6
+        ],
+        "girth": 4
+      }
+    },
+    "attempts": 272824,
+    "nodes": 1492054417512,
+    "evidence": "Completed source-bound exhaustive execution audit through weight 29; reconstructed physical matrices and logical supports verified locally."
+  }
+]

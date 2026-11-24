@@ -1,0 +1,21 @@
+{
+  "p25_m20_r4": {
+    "full_saved_receipt_replay": true,
+    "workers": 8,
+    "matches_original_summary_fields": [
+      "code_sha256",
+      "cutoff",
+      "complete",
+      "coverage",
+      "attempts",
+      "queue_scope_sha256",
+      "nodes"
+    ],
+    "native_exhaustive_search_rerun": false
+  },
+  "Mitten-975_p22_r3_v0": {
+    "previous_complete_audit_reused": true,
+    "release_asset_byte_identity_verified": true,
+    "native_exhaustive_search_rerun": false
+  }
+}

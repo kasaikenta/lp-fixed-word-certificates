@@ -1,0 +1,11 @@
+{
+  "candidate": "p25_m20_r4",
+  "n": 2500,
+  "k": 500,
+  "distance": 30,
+  "code_sha256": "e92dbc01621f72ef7c069e9f94c0bc1cfd6e9bb7af225f46b4e24d27ec62a1f6",
+  "complete_exclusion_cutoff": 29,
+  "witness_sector": "Z",
+  "physical_witness_independently_verified": true,
+  "old_leases_drained": true
+}

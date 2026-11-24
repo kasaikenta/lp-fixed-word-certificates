@@ -1,0 +1,31 @@
+{
+  "candidate": "Mitten-975_p22_r3_v0",
+  "job_id": 9518642,
+  "n": 1650,
+  "k": 330,
+  "rate": 0.2,
+  "distance": 30,
+  "sector_bounds": {
+    "X": {
+      "lower": 30,
+      "upper": 30
+    },
+    "Z": {
+      "lower": 30,
+      "upper": 38
+    }
+  },
+  "audit_completed_JST": "2026-11-23T00:28:43.477340+09:00",
+  "completed_partitions": 233792,
+  "missing_partitions": 0,
+  "code_sha256": "a1d45bd138ec4286d94dfa59af1a1bbe200cf47c27cf583df341140a8477836b",
+  "local_checks": [
+    "Matrices reconstructed from manuscript Table 2 expressions and matched exactly",
+    "X and Z upper-bound witnesses verified for zero syndrome and nontriviality",
+    "Queue SHA-256 matches completed weight-29 audit",
+    "All four search classes complete; no missing partitions"
+  ],
+  "receipt_audit": "Completed on TSUBAME; underlying worker archives remain there. Full receipt audit was not rerun locally in this status check.",
+  "jobs_running": 0,
+  "evidence": "audits/w29.json, queue.sqlite, extra_witness_X.json, extra_witness_Z.json, live_status.json, qacct_9518642.txt"
+}
